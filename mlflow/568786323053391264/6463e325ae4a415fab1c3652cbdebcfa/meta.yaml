@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/568786323053391264/6463e325ae4a415fab1c3652cbdebcfa/artifacts
+end_time: 1773767939898
+entry_point_name: ''
+experiment_id: '568786323053391264'
+lifecycle_stage: active
+run_id: 6463e325ae4a415fab1c3652cbdebcfa
+run_name: gifted-ox-370
+run_uuid: 6463e325ae4a415fab1c3652cbdebcfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773767929290
+status: 3
+tags: []
+user_id: root

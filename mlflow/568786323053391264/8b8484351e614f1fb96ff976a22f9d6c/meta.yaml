@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/568786323053391264/8b8484351e614f1fb96ff976a22f9d6c/artifacts
+end_time: 1773767929114
+entry_point_name: ''
+experiment_id: '568786323053391264'
+lifecycle_stage: active
+run_id: 8b8484351e614f1fb96ff976a22f9d6c
+run_name: serious-sponge-83
+run_uuid: 8b8484351e614f1fb96ff976a22f9d6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773767927327
+status: 3
+tags: []
+user_id: root
