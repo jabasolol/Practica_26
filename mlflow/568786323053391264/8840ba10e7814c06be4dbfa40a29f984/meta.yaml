@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/568786323053391264/8840ba10e7814c06be4dbfa40a29f984/artifacts
+end_time: 1773832681100
+entry_point_name: ''
+experiment_id: '568786323053391264'
+lifecycle_stage: active
+run_id: 8840ba10e7814c06be4dbfa40a29f984
+run_name: ambitious-stag-286
+run_uuid: 8840ba10e7814c06be4dbfa40a29f984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773832670950
+status: 3
+tags: []
+user_id: root

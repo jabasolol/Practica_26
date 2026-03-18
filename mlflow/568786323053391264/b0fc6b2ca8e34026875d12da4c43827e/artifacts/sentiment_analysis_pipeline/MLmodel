@@ -1,0 +1,21 @@
+artifact_path: sentiment_analysis_pipeline
+flavors:
+  python_function:
+    artifacts:
+      joblib_model:
+        path: artifacts/sentiment_analysis_pipeline.joblib
+        uri: /content/Practica/modelos/sentiment_analysis_pipeline.joblib
+    cloudpickle_version: 3.1.2
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.12.12
+    streamable: false
+mlflow_version: 2.19.0
+model_size_bytes: 2971407
+model_uuid: f67493bbb1fa497cb665800461cf8cc6
+run_id: b0fc6b2ca8e34026875d12da4c43827e
+utc_time_created: '2026-03-18 11:36:39.171448'

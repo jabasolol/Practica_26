@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/568786323053391264/cd671d6bc5d442a0bec6c0ad3ba111a8/artifacts
+end_time: 1773833823249
+entry_point_name: ''
+experiment_id: '568786323053391264'
+lifecycle_stage: active
+run_id: cd671d6bc5d442a0bec6c0ad3ba111a8
+run_name: bald-hen-847
+run_uuid: cd671d6bc5d442a0bec6c0ad3ba111a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773833799590
+status: 3
+tags: []
+user_id: root
