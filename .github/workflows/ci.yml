@@ -23,5 +23,5 @@ jobs:
 
     - name: Ejecutar entrenamiento
       run: |
-        python train.py
+        python src/train.py
 
